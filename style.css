@@ -1,0 +1,122 @@
+.d1{
+    width: 100vw;
+    height : 7vh;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-family: "Gotham SSm";
+    font-size: 14px;
+    font-weight: 400;
+    color :rgb(33, 32, 32)
+}
+
+.d2{
+    width: 100vw;
+    height : 93vh;
+    background-image: url("background.jpeg");
+    background-size: 98vw;
+    background-position-y: -350px;
+    overflow-y: scroll;
+}
+
+.b{
+    margin: 0px;
+}
+
+.b1{
+    width :250px;
+    height : 40px;
+    background-color: rgb(72, 68, 68);
+    color: white;
+    font-weight: bold;
+    border : none ;
+    border-radius: 5px;
+    margin-top: 400px;
+    margin-left: 490px;
+    font-family: "Gotham SSm";
+    
+    
+
+    
+}
+
+.b2{
+    width :250px;
+    height : 40px;
+    background-color:white;
+    color:  rgb(72, 68, 68);
+    font-weight: bold;
+    border : none ;
+    border-radius: 5px;
+    margin-top: 400px;
+    margin-left: 20px;
+    font-family: "Gotham SSm";
+}
+
+.a1{
+    color: black;
+    text-underline-offset: 3px;
+    margin-left: 5px;
+}
+.i1{
+    width: 120px;
+    height :22px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.ul1{
+    list-style: none;
+    margin-left: 380px;
+    margin-top:-25px ;
+}
+
+.li1{
+    display :inline ;
+    margin-left: 30px;
+    font-family: "Gotham SSm";
+    font-size: 14px;
+    font-weight: 600;
+    color: rgb(45, 44, 44);
+}
+
+.ul2{
+    list-style: none;
+    margin-left: 1200px;
+    margin-top: -38px;
+}
+
+.li2{
+    display: inline;
+    margin-left: 30px;
+    align-items: center;
+    font-size: 14px;
+    font-family: "Gotham SSm";
+    font-weight: 600;
+    color: rgb(45, 44, 44);
+
+}
+.p1{
+    color: black;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 40px;
+    font-family: "Gotham SSm";
+    margin-top: 20px;
+    font-weight: 400;
+
+
+}
+.a2{
+    color: black;
+    text-underline-offset: 3px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 14px;
+    font-family: "Gotham SSm";
+    margin-top: -30px;
+    
+}
